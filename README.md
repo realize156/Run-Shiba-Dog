@@ -30,6 +30,5 @@ Open GL을 사용하여 구현하였다.
 |<img src="https://user-images.githubusercontent.com/44607643/103208322-af713300-4943-11eb-95d4-ead948dd31ce.png">|4) 시바견이 장애물에 부딪히면 최종 점수가 나오면서 게임이 종료된다.|   
 
 ## Game Play   
-<img width = "500" height = "400" src="https://user-images.githubusercontent.com/44607643/103220822-89a85600-4964-11eb-925a-b7f40a562730.gif">   
-
-<img width = "500" height = "400" src="https://user-images.githubusercontent.com/44607643/103220847-9fb61680-4964-11eb-8baf-de8bd08763d8.gif">   
+<img width = "350" height = "200" src="https://user-images.githubusercontent.com/44607643/103220822-89a85600-4964-11eb-925a-b7f40a562730.gif">
+<img width = "350" height = "200" src="https://user-images.githubusercontent.com/44607643/103220847-9fb61680-4964-11eb-8baf-de8bd08763d8.gif">   
