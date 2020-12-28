@@ -21,5 +21,4 @@
 
 | 1. 주메뉴 ||
 |-----------|-----------------|
-|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197598-b5f2b100-4929-11eb-97a8-0a2232e2fa70.png">|1) 게임 시작 : 게임 시작을 누르면 게임이 시작됨   
-2) 게임 종료 : 게임이 종료되고 실행 창이 꺼짐|
+|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197598-b5f2b100-4929-11eb-97a8-0a2232e2fa70.png">|1) 게임 시작 : 게임 시작을 누르면 게임이 시작됨   2) 게임 종료 : 게임이 종료되고 실행 창이 꺼짐|
