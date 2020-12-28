@@ -20,7 +20,7 @@
 ## Screen Shot   
 
 | 주메뉴 ||
-|-----------|-----------------|
+|:-----------:|-----------------|
 |<img src="https://user-images.githubusercontent.com/44607643/103208205-6ae59780-4943-11eb-953e-e6582b829a7d.png">|1) 게임 시작 : 게임 시작을 누르면 게임이 시작됨 <br/>  2) 게임 종료 : 게임이 종료되고 실행 창이 꺼짐|
 | <center>게임 실행<center/> ||
 |<img src="https://user-images.githubusercontent.com/44607643/103208313-ab451580-4943-11eb-8346-a738eb956f60.png">|1) 게임이 시작되고 뒷 배경과 시바견, 장애물이 나온다.|
